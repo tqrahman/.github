@@ -1,11 +1,11 @@
-# Hello, World! :wave:
+# Welcome to the Pyrrha project
 
-Welcome to the Call for Code organization on GitHub where we love all things tech-for-good and open source that makes an impact.
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Slack&message=%23prometeo-pyrrha&color=blue)](https://callforcode.org/slack)
 
-* :woman_technologist: 500,000+ participants in [Call for Code](https://developer.ibm.com/callforcode/) since its launch in 2018
-* :world_map: 180 nations represented in the Call for Code community
-* :computer: 15,000 applications built for disaster resiliency, racial justice, and climate change mitigation
-* :rocket: 16 official [open source projects hosted by The Linux Foundation](https://www.linuxfoundation.org/projects/call-for-code/)
-* :octocat: 70+ GitHub repositories. Search below! Or check out the [Project Catalog](https://github.com/Call-for-Code/Project-Catalog)
-* :calendar: Join our [public project town halls and special interest group meetings](https://calendar.google.com/calendar/embed?src=4n0hu4ojlfufu4s7c5jsck77rs%40group.calendar.google.com&ctz=America%2FNew_York)
-* :sparkles: Say hello in our [Slack community](http://callforcode.org/slack)
+[Prometeo Solutions S.L.](https://prometeoplatform.com/) created **_Prometeo_** as a [Call for Code submission](https://developer.ibm.com/callforcode/solutions/prometeo/) that won the top prize in the Global Challenge. In 2021, **_Pyrrha_** was contributed to the Linux Foundation as the open source core of Prometeo in order share the technology and provide a way for others to improve it for the benefit of all.
+
+[The Pyrrha mission](https://github.com/Pyrrha-Platform/Pyrrha/blob/main/Pyrrha-Technical-Charter-July-2021.pdf) is to help protect firefighters from the immediate and long-term health impacts from the smoke and toxins they inhale by providing real-time information on exposure and by calculating longer-term averages. The project uses custom sensors, smartphone and smartwatch apps, data science, and a dashboard to provide decision-making insight and information.
+
+Improved by field tests in the Catalonia region of Spain and through the support of IBM Service Corps volunteers, our hope is that Pyrrha can also provide a powerful solution to assist wildlands firefighting teams around the world in their battle against more frequent and more devastating wildfires and bushfires.
+
+**[Get started in the main Pyrrha repo](https://github.com/Pyrrha-Platform/Pyrrha)**
