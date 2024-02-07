@@ -4,7 +4,7 @@
 
 ## Why are We Building CDP?
 
-**To connect the people, places, and things you care about**
+### To connect the people, places, and things you care about.
 
 In 2017 a category-5 Atlantic hurricane, Maria, hit Puerto Rico and destroyed most of the island's infrastructure. Cellular and power were disabled for an extended period of time leaving medical and communications problems long after the hurricane passed. If access to a basic communications network was available, the community could have connected with emergency services, local government, or family to mitigate some of the widespread problems resulting from this disaster. [OWL Integrations] (formerly Project OWL) created the ClusterDuck Protocol to mitigate this communication issue so that we can connect to the people, places, and things that you care about.
 
