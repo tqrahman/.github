@@ -1,7 +1,7 @@
 ![LOGO](profile/CDP_LOGO_small.png)
 # Welcome to the ClusterDuck Protocol!
 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://www.project-owl.com/slack)
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Discord](https://img.shields.io/badge/Join-Discord-blue)](https://discord.com/invite/Cbgbzq353z)
 
 ## Why are We Building CDP?
 
